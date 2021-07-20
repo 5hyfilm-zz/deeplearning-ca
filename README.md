@@ -1,4 +1,4 @@
-# AJPom_cancer
+# Deep Learning CA
 
 ## Classification Report for Part 1
 <center>
