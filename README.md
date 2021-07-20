@@ -1,6 +1,6 @@
 # AJPom_cancer
 
-## Classification Report
+## Classification Report for Part 1
 <center>
 <img src="https://github.com/fxlmer/AJPom_cancer/blob/main/README_images/cm_cr.png" alt="centered image"/>
 </center>                                                                                                                                
